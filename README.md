@@ -28,17 +28,17 @@ View password in text field
 
 
 
-```md
+
 ![Website blank](assets/images/webpage_blank.jpg)
-```
 
-```md
+
+
 ![prompt example](assets/images/webpage_prompt.jpg)
-```
 
-```md
+
+
 ![result example](assets/images/webpage_password.jpg)
-```
+
 
 ## Credits
 
