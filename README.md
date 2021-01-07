@@ -29,15 +29,15 @@ View password in text field
 
 
 
-![Website blank](assets/images/webpage_blank.jpg)
+![Website blank](assets/Images/webpage_blank.jpg?raw=true?raw=true?raw=true)
 
 
 
-![prompt example](assets/images/webpage_prompt.jpg)
+![prompt example](assets/Images/webpage_prompt.jpg?raw=true?raw=true)
 
 
 
-![result example](assets/images/webpage_password.jpg)
+![result example](assets/Images/webpage_password.jpg?raw=true)
 
 
 ## Credits
